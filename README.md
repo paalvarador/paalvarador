@@ -20,6 +20,12 @@ Soy un desarrollador apasionado con experiencia en tecnologias backend como Nest
 - **Desarrollador Web y Administrador de Entornos Virtuales** - Universidad Técnica Particular de Loja (Abril 2013 - Agosto 2022)
   - Diseño de módulos (bloques) escritos en PHP para el Entorno Virtual de Aprendizaje EVA, que es una distribución de Moodle
   - Diseño de módulo escritos en Python y Django para el Entorno Virtual de Aprendizaje EVA, que es una plataforma Canvas.
+ 
+## Proyectos
+### Portfolio Personal
+Este proyecto es una actualización de mi portafolio que lo estoy realizando con otra tecnología que es muy interesante y con la cual también me gusta desarrollar. En este proyecto mostraré información relacionada a mi como mi educación, mi experiencia profesional, mis servicios y mis habilidades. Además contará con un blog para compartir recursos y que otras personas puedan utilizar.
+**Tecnologías:** Django, SQLite, HTML5, CSS3, JavaScript
+**Repositorio:** https://github.com/paalvarador/django-portafolio-project
 <!--
 **paalvarador/paalvarador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
