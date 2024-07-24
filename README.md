@@ -11,6 +11,8 @@ Soy un desarrollador apasionado con experiencia en tecnologias backend como Nest
 - **Fullstack Developer** - Soy Henry, 2024
 
 ## Experiencia Profesional
+- **Desarrollador FullStack** - ASSA Seguros (Julio 2024 - Actualidad)
+  - Actualmente me encuentro trabajando como desarrollador web fullstack en ASSA Seguros, una aseguradora de Costa Rica, me enecuentro trabajando en la mesa de aplicaciones relacionadas con seguros de autos.
 - **Desarrollador Independiente**
   - Actualmente trabajo en proyectos propios ya que me encanta trabajar con tecnologias nuevas como Django o Nestjs
 - **Desarrollador FullStack** - Productly Tech (Diciembre 2023 - Mayo 2024)
